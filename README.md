@@ -33,7 +33,7 @@ My approach combines technical precision with a strong emphasis on clean, scalab
 *A procedural simulation engine demonstrating object-oriented principles and visual layering.*
 
 <a href="https://github.com/cfiramar/pepse">
-  <img src="https://github.com/user-attachments/assets/a6cc0cfe-bf95-46d8-9862-e52488992127" width="600" alt="Pepse Project Demo">
+  <img src="https://github.com/user-attachments/assets/0a374661-9fad-41e4-a00e-c85119b558b0" width="448" alt="Pepse Project Demo">
 </a>
 
 *(Click the image to view the repository)*
