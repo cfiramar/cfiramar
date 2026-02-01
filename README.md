@@ -28,16 +28,29 @@ My approach combines technical precision with a strong emphasis on clean, scalab
 
 ---
 
-### 🎨 Featured Project: PEPSE
+### 🎨 Featured Projects
 
-*A procedural simulation engine demonstrating object-oriented principles and visual layering.*
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="50%" style="border: none;">
+      <h3>PEPSE</h3>
+      <em>A procedural simulation engine demonstrating object-oriented principles and visual layering.</em>
+      <br>
+      <a href="https://github.com/cfiramar/pepse"><img src="https://github.com/user-attachments/assets/be7643b1-c5d6-450d-a49c-6d47fee1a056" width="403px" alt="Pepse Project Demo"></a>
+      <br>
+      <sub>(Click the image to view the repository)</sub>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <h3>Subbaba (WIP)</h3>
+      <em>A local, privacy-focused video transcription & translation tool.<br>Optimized for consumer hardware (Whisper/Ivrit.ai).</em>
+      <br>
+      <a href="#"><img src="https://github.com/user-attachments/assets/60840a22-2cae-47d2-86a9-5ffa7a37ccc5" width="293px" alt="Subbaba Project Demo"></a>
+      <br>
+      <sub>(Private Repo - Research Phase)</sub>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/cfiramar/pepse">
-  <img src="https://github.com/user-attachments/assets/0a374661-9fad-41e4-a00e-c85119b558b0" width="448" alt="Pepse Project Demo">
-</a>
-
-*(Click the image to view the repository)*
-<br>
 <br>
 
 ---
