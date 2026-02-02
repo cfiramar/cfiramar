@@ -14,6 +14,9 @@ My approach combines technical precision with a strong emphasis on clean, scalab
 
 <br>
 
+<a href="https://www.linkedin.com/in/cfir-amar/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
+<a href="mailto:amar.cfir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
+
 ---
 
 ### 🛠 The Toolbox
@@ -30,21 +33,35 @@ My approach combines technical precision with a strong emphasis on clean, scalab
 
 ### 🎨 Featured Projects
 
-<table align="center" style="border: none;">
+<table>
   <tr>
-    <td align="center" width="50%" style="border: none;">
-      <h3>PEPSE</h3>
+    <td width="50%" align="center">
+      <b>PEPSE</b>
+    </td>
+    <td width="50%" align="center">
+      <b>Subbaba (WIP)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <em>A procedural simulation engine demonstrating object-oriented principles and visual layering.</em>
-      <br>
-      <a href="https://github.com/cfiramar/PEPSE-Game"><img src="https://github.com/user-attachments/assets/be7643b1-c5d6-450d-a49c-6d47fee1a056" width="403px" alt="Pepse Project Demo"></a>
+    </td>
+    <td align="center">
+      <em>A user-friendly video transcription tool.<br>Works Locally, optimized for consumer hardware.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/cfiramar/PEPSE-Game">
+        <img src="https://github.com/user-attachments/assets/d5f6747f-de07-496c-b14e-0f1881ee31d2" width="320px" alt="Pepse Project Demo">
+      </a>
       <br>
       <sub>(Click the image to view the repository)</sub>
     </td>
-    <td align="center" width="50%" style="border: none;">
-      <h3>Subbaba (WIP)</h3>
-      <em>A local, privacy-focused video transcription & translation tool.<br>Optimized for consumer hardware (Whisper/Ivrit.ai).</em>
-      <br>
-      <a href="#"><img src="https://github.com/user-attachments/assets/60840a22-2cae-47d2-86a9-5ffa7a37ccc5" width="293px" alt="Subbaba Project Demo"></a>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/05b19bca-b882-4fa9-9394-9de612bc98e8" width="161px" alt="Subbaba Project Demo">
+      </a>
       <br>
       <sub>(Private Repo - Research Phase)</sub>
     </td>
@@ -52,13 +69,3 @@ My approach combines technical precision with a strong emphasis on clean, scalab
 </table>
 
 <br>
-
----
-
-### 📫 Let's Connect
-
-<a href="https://www.linkedin.com/in/cfir-amar/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:amar.cfir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
-
-</div>
